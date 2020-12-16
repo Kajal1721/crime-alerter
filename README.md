@@ -1,2 +1,2 @@
 # crime-reg-react
-An online website for registering complain. 
+An online website for registering to complain. 

@@ -1,0 +1,8 @@
+.complain{
+    display: block;
+    border: 1px solid lightgray;
+    margin: 30px 0px;
+    padding: 20px;
+    background-color: #242424;
+    color: #ffffff;
+}
